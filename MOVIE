@@ -1,4 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Lokal",TV1
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://i.pinimg.com/originals/24/7e/30/247e30aea999a674ec93d732ba8f7448.jpg" group-title="MOVIE",6 UNDERGROUND
+https://www.googleapis.com/drive/v3/files/1KnOentoAtO4L6uX2s0GDre7QNpEfMFNd?alt=media&key=AIzaSyC_1gDFI200DuzdbfNEOm4MDTnnll2_eu0
+
+#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://i.pinimg.com/originals/24/7e/30/247e30aea999a674ec93d732ba8f7448.jpg" group-title="MOVIE",6 UNDERGROUND
+https://www.googleapis.com/drive/v3/files/1KnOentoAtO4L6uX2s0GDre7QNpEfMFNd?alt=media&key=AIzaSyC_1gDFI200DuzdbfNEOm4MDTnnll2_eu0
+
+
+
+
+
