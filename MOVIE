@@ -1,10 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://i.pinimg.com/originals/24/7e/30/247e30aea999a674ec93d732ba8f7448.jpg" group-title="MOVIE",6 UNDERGROUND
-https://www.googleapis.com/drive/v3/files/1KnOentoAtO4L6uX2s0GDre7QNpEfMFNd?alt=media&key=AIzaSyC_1gDFI200DuzdbfNEOm4MDTnnll2_eu0
+#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdR1nLuys7tByCTmjQyzoiaQ8T5RibmcWrzA&usqp=CAU" group-title="MOVIE",TEST
+https://www.googleapis.com/drive/v3/files/1plb6LNVDF22gIqTFZ4LOL6J30NQqFBkL?alt=media&key=AIzaSyC_1gDFI200DuzdbfNEOm4MDTnnll2_eu0
 
-#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://i.pinimg.com/originals/24/7e/30/247e30aea999a674ec93d732ba8f7448.jpg" group-title="MOVIE",6 UNDERGROUND
-https://www.googleapis.com/drive/v3/files/1KnOentoAtO4L6uX2s0GDre7QNpEfMFNd?alt=media&key=AIzaSyC_1gDFI200DuzdbfNEOm4MDTnnll2_eu0
+
 
 
 
